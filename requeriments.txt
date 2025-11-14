@@ -5,5 +5,5 @@ numpy
 pandas
 streamlit
 altair
-sklearn.ensemble
+scikit-learn
 sqlalchemy
