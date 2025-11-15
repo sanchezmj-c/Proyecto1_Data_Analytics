@@ -1,0 +1,7 @@
+streamlit>=1.39,<2
+pandas>=2.2
+numpy>=1.26,<3
+altair>=5
+scikit-learn==1.4.2
+SQLAlchemy>=2
+psycopg2-binary>=2.9
