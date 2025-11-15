@@ -1,9 +1,7 @@
-os
-pathlib
-datetime
-numpy
-pandas
 streamlit
+pandas
+numpy
 altair
 scikit-learn
-sqlalchemy
+SQLAlchemy
+psycopg2-binary
